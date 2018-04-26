@@ -34,7 +34,3 @@ class UserFormView(View):
     # process form data
     def post(self, request):
         pass
-
-
-
-
